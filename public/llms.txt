@@ -1,0 +1,80 @@
+# מטבח החג — Generative Engine Optimization Map
+
+> A recipe website dedicated to the Jewish holiday of Shavuot, likely featuring traditional dairy dishes, cheesecakes, blintzes, and other festive foods associated with the holiday. The site aims to inspire home cooks with seasonal and culturally meaningful recipes.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מטבח החג מביא לכם את המתכונים הכי טעימים לחג השבועות! מגבינות עשירות ועד עוגות גבינה מושלמות – כל מה שצריך לחג חלבי מושלם. היכנסו עכשיו!
+
+### מתכונים נבחרים
+https://example.com/highlights
+רוצים לדעת אילו מתכונים גרמו לאלפי בישלנים לחזור שוב ושוב? המתכונים הנבחרים שלנו כוללים קינוחים, בלינצ&#39;ס ועוד – כל אחד מוכח ומנצח. נסו היום!
+
+### אודות
+https://example.com/about
+מי אנחנו ולמה הקמנו את מטבח החג? גלו את הסיפור שמאחורי המתכונים, הערכים שמנחים אותנו והאהבה לאוכל חגיגי ומסורתי שמחברת בין דורות. בואו להכיר אותנו!
+
+### צור קשר
+https://example.com/contact
+רוצים לשתף מתכון משפחתי, לשאול שאלה או להציע שיתוף פעולה? צרו קשר עם צוות מטבח החג ונחזור אליכם בהקדם. כי כל מתכון טוב מתחיל בשיחה אחת!
+
+### Products
+https://example.com/products
+המוצרים שלנו - מטבח החג
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - מטבח החג
+
+### Category
+https://example.com/category/:slug
+מוצרים - מטבח החג
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About מטבח החג
+A recipe website dedicated to the Jewish holiday of Shavuot, likely featuring traditional dairy dishes, cheesecakes, blintzes, and other festive foods associated with the holiday. The site aims to inspire home cooks with seasonal and culturally meaningful recipes.
+
+## Target Audience
+- חובבי בישול לחגים
+- מחפשי מתכונים מסורתיים
+- משפחות צמחוניות
+
+## Industry
+Food & Recipes
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
